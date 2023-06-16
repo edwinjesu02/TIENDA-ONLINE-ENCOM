@@ -1,0 +1,153 @@
+#cat_carrousel{
+    
+    width: 100%;
+    display: flex;
+    margin-top: -60px;
+    padding-top:0px ;
+    padding-bottom: 20px;
+    height: 150px;
+
+}
+#cat:hover{
+    border-bottom:4px solid #1750b2 ;
+}
+#cat2:hover{
+    border-bottom:4px solid #1750b2 ;
+}
+#cat3:hover{
+    border-bottom:4px solid #1750b2 ;
+
+}
+#cat{
+    width:280px;
+    margin: 10px auto;
+    background-color: #fff;
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 110px;
+    border: #333;
+    padding: 20px;
+    justify-content: space-between;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+#cat3{
+    width:250px;
+    margin: 10px auto;
+    background-color: #fff;
+    display: flex;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 110px;
+    flex: 1 0 auto;
+    padding: 20px;
+    
+    justify-content: space-between;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+#cat2{
+    width:320px;
+    margin: 10px auto;
+    background-color: #fff;
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 110px;
+    flex: 1 0 auto;
+    padding: 20px;
+    justify-content: space-between;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+#cat3{
+    width:300px;
+    margin: 10px auto;
+    background-color: #fff;
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 110px;
+    flex: 1 0 auto;
+    padding: 20px;
+    justify-content: space-between;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+#cat #cat2 #cat3 #cat4{
+    display: flex;
+    justify-content: center;
+    
+}
+#caw{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+#text_{
+    font-size: 18px;
+    margin-top:16px ;
+    display: block;
+    font-family: 'SF Pro Display', sans-serif;
+    color: #333;
+}
+#icon_ #text_{
+    display: flex;
+    
+}
+#icon_{
+    float: left;
+    height: 56px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 8px;
+    width: 48px;
+}
+#_en{
+    display: block;
+    margin-top: -12px;
+    font-size: 14px;
+    color: rgba(0,0,0,.5);
+    font-family: 'SF Pro Display', sans-serif;
+    text-decoration: none;
+}
+#icon_2{
+    float: left;
+    height: 37px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 19px;
+    width: 48px;
+}
+#icon_3{
+    float: left;
+    height: 37px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 19px;
+    width: 48px;
+    border-left-width: 2px solid rgba(0,0,0,.1);
+}
+#icon_4{
+    float: left;
+    height: 34px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 19px;
+    margin-bottom: 5px;
+    width: 48px;
+    border-left-width: 2px solid rgba(0,0,0,.1);
+}
+#cat4:hover{
+    border-bottom:4px solid #1750b2 ;
+}
+#cat4{
+    width:380px;
+    margin: 10px auto;
+    background-color: #fff;
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 110px;
+    flex: 1 0 auto;
+    padding: 20px;
+    justify-content: space-between;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}

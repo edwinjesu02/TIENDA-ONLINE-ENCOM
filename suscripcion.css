@@ -1,0 +1,165 @@
+#suscripcion{
+    margin: 40px auto;
+    width: 1180px;
+    background: -webkit-linear-gradient(90deg, #a90f90 0%, #0c1a51 100%);
+    background: linear-gradient(90deg, #a90f90 55%, #0c1a51 100%);
+    padding:16px 24px ;
+    justify-content: space-between;
+    height: 55px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    border-top-left-radius:6px ;
+    border-top-right-radius: 6px;
+}
+#suscripcion-section{
+    border-radius: 10px;
+    width: 1180px;
+    background-color: #fff;
+    margin: 0px auto;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+#info{
+    font-size: 12px;
+    text-decoration: none;
+
+}
+.aa{
+    font-family: 'SF Pro Display', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 8px;
+    line-height: 16px;
+}
+#precio_suscripcion{
+    float: right;
+    border-left: 2px solid #fff;
+    padding-left: 8px;
+}
+.aaa{
+font-size: 20px;
+font-weight: 600;
+font-family: 'SF Pro Display', sans-serif;
+padding-top: 8px;
+}
+a{
+    text-decoration: none;
+}
+.aa{
+    color: #fff;
+    text-decoration: none;
+}
+#aaaa{
+    text-decoration: none;
+}
+#descripcion-suscripcion{
+    padding-top: 4px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+    padding-right: 14px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    background-color: #fff;
+
+}
+#d12{
+    display: block;
+    font-size: 18px;
+    line-height: 18px;
+    font-family: 'SF Pro Display', sans-serif;
+
+}
+#d13{
+    display: flex;
+    justify-content: space-between;
+    margin-top:32px ;
+}
+#d14{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 32px;
+    margin-left: 180px;
+}
+.beneficios{
+    max-width: 300px;
+    flex: 1;
+    padding-left: 24px;
+
+    display: flex;
+}
+.img_bemeficios{
+    border: 1px solid #efefef;
+    border-radius: 50%;
+    height: 72px;
+    min-height: 72px;
+    min-width: 72px;
+    overflow: hidden;
+    width: 72px;
+   
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+
+}
+.img_bemeficios2{
+    border: 1px solid #efefef;
+    border-radius: 50%;
+    height: 72px;
+    min-height: 72px;
+    min-width: 72px;
+    overflow: hidden;
+    width: 72px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+
+}
+#img{
+    height: auto;
+    width: 100%;
+}
+#text_bn{
+    font-size: 16px;
+    margin-top: 32px;
+    line-height: 16px;
+    margin-left: 16px;
+    margin-right: 46px;
+    width: auto;    
+    font-family: 'SF Pro Display', sans-serif;
+
+}
+#text_bn2{
+    font-size: 16px;
+    margin-top: 12px;
+    line-height: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    width: 200px;    
+    font-family: 'SF Pro Display', sans-serif;
+
+}
+#button_suscripcion{
+    align-items: center;
+    border-top: 1px solid #ededed;
+    padding:16px 30px 16px 30px ;
+    justify-content: space-between;
+    display: flex;
+    background-color: #fff;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+#button{
+    background-color: #3483fa;
+    border: transparent;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 14px;
+    height: 32px;
+    line-height: 32px;
+    text-decoration: none;
+    float: right;
+    padding: 0px 12px 0px 12px;
+}

@@ -1,0 +1,290 @@
+
+#header_banner{
+    width: 100%;
+    clear: both;
+    justify-content: space-between;
+    padding: 10px 0 12px 0;
+    position: relative;
+    align-items: center;
+    display: flex;
+    background-color: #1750b2;
+   
+}
+#search #banner_title #banner_cuent{
+    display: flex;
+    background-color: #0833A2;
+}
+#search {
+    width: 60%;
+    
+
+}
+#shoppin_cart{
+    border-radius: 3px;
+    width: 20%;
+    justify-content: space-between;
+    font-size: 16px;
+    display: inline-block;
+   margin-right: 20px;
+
+}
+#link_cuenta{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: #FFF;
+}
+#id_cuenta{
+    width: 50%;
+    display: flex;
+    
+}
+#icon_c{
+    padding-left: 6px;
+    padding-bottom: 6px;
+}
+#icon_cuenta{
+    width: 50%;
+    display: flex;
+}
+#icon_cuenta #id_cuenta{
+display: flex;
+
+}
+#cuenta{
+    font-size: 15px;
+    
+}
+#cuenta1{
+    font-size: 15px;
+}
+#banner_title{
+    text-align: center;
+    justify-content: center;
+    width: 20%;
+
+}
+#title_header{
+    margin: 0px 80px;
+    font-weight: 600;
+    padding-top: 3px;
+    color: #FFF;
+    letter-spacing: 0.1;
+    background-color: #1750b2;
+    font-family: 'SF Pro Display', sans-serif ;
+}
+li{
+ list-style: none;
+ display: flex;
+ text-decoration: none;
+}
+a{
+    text-decoration: none;
+    
+}
+
+li:hover{
+    cursor: pointer;
+    color: #ffd200;
+}
+#link{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 900;
+    padding-left: 16px;
+    padding-right: 16px;
+    flex-grow: 1;
+    text-align:center;
+    padding-top: 4px;
+}
+.dropdown .adad{
+    text-decoration: none;
+    color: #fff;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    color: #333;
+    z-index: 1;
+    top: 160%; /* Ajuste para mostrar el menú debajo del elemento padre */
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+    visibility: visible;
+  }
+  
+  .dropdown-content li {
+    display: block;
+  }
+  
+  .dropdown-content li a {
+    text-decoration: none;
+  }
+  
+
+#nav_menu #links {
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    font-size: 14px;
+    margin: 0 auto;
+    height: 4px;
+    font-family: 'SF Pro Display', sans-serif;
+  }
+
+#nav_menu{
+    width: 100%;
+    display: flex;
+    padding-left: 22%;
+    height: 40px;
+}
+
+#nav_menu #banner_busqueda{
+    display: flex;
+    width: 100%;
+    
+    
+}
+
+#banner_div{
+    padding-top: 5px;
+    
+    background-color:#1750b2;
+}
+.box{
+   max-width: 2000px;
+    width: 100%;
+    
+}
+.all_categoria{
+    text-decoration: none;
+    padding-top: 4px;
+    padding-right: 9px;
+    color: #fff;
+    display: flex;
+    width: 90%;
+    
+    display: flex;
+    padding-left: 15px;
+        
+    text-decoration: none;
+    border-top-left-radius: 3px;
+    font-weight: 700;
+    border-top-right-radius: 4px;
+}
+
+#boton_menu .all_categoria{
+    display: flex;
+    justify-content: space-between;
+}
+#boton_menu {
+    width: 10%;
+    display: flex;
+}
+.box .search-box{
+    position: relative;
+    height: 35px;
+    max-width: 700px;
+    margin-left: 40px;
+}
+.search-box input{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    padding-left: 20px;
+    font-size: 12px;
+    background-color: #FFF;
+}
+.search-box #icon{
+    position: absolute;
+    right:-2px;
+    top: 0;
+    bottom: 10px;
+    width: 50px;
+    background-color: #ffd200;
+    height: 100%;
+    line-height: 35px;
+    text-align: center;
+    font-size: 16px;
+}
+#icon{
+    padding-top: 5px;
+    cursor: pointer;
+    padding-right: 26px;
+}
+#shopping_cart2{
+    float: left;
+    position: relative;
+    box-shadow: 0 1px 3px rgba(0, 0, 0s, 0.2);
+    background-color: #1d64df;
+     width: 46px;
+     height: 41px;   
+     text-align: center;
+     padding-right: 27px;
+}
+#logo_header{
+    margin-top: 2px;
+}
+#icon-cart{
+    color: #fff;
+    cursor: pointer;
+    font-size: 26px;
+    line-height: 27px;
+    padding-top: 6px;
+    padding-right: 20px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+}
+#shopping_text{
+    float: left;
+    width: 120px;
+    height: 41px;
+    text-align: center;
+    color: #fff;
+    font-family: 'SF Pro Display', sans-serif;
+    background-color: #0d6efd;
+}
+#shopping_cart #shopping_text{
+    display: inline-block;
+}
+#text_sho{
+    margin-top: 3px;
+    font-weight: 400;
+    font-size: 12px;
+    font-family: 'SF Pro Display', sans-serif;
+    cursor: pointer;
+}
+#cuent_banner{
+    height: 44px;
+    width: 100%;
+
+    background-color: #1750b2;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+#banner_left{
+    width: 50%;
+    flex: 0 0 auto;
+}
+.tp{
+    list-style: none;
+    display: inline-flex;
+    vertical-align: top;
+    margin: 14px;
+    margin-left: 60px;
+    color: #fff;
+    font-size: 12px;
+}
+.fa-solid{
+    position: absolute;
+    padding-left: 4px;
+    padding-top: 4px;
+}
+ 
